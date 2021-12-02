@@ -11,7 +11,7 @@ Idiopathic pulmonary fibrosis (IPF) is a progressive, life-threatening, intersti
 Figure 1 fibrosis(left) vs healthy(right) lung. Red circled regions are so called honeycombing area. 
 
 
-## Step 1. Segmentation of images: 
+### Step 1. Segmentation of images: 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49659087/144463140-850899ac-12fe-4bce-9d7a-d36840ef313e.png"  height="200"/>
@@ -21,10 +21,10 @@ Since the region of interest for us is only the lung area, we perform a segmenta
 Notebook:
 Segmentation.ipynb
 
-## Step 2. extract texture features using GLCM
+### Step 2. extract texture features using GLCM
 TextureFeature-single-analysis-glcm.ipynb
 
-## Step 3 extract features using object detection with a pretrained CNN
+### Step 3 extract features using object detection with a pretrained CNN
 
 3.1 CNN training with ILD dataset
 OD-CNN-pipeline-efn-cv5.ipynb
@@ -33,5 +33,5 @@ ObjectDetection-Pipeline.ipynb
 3.3 visualize objection results
 ObjectDetection-visual.ipynb
 
-## Step 4. Benchmark
+### Step 4. Benchmark
 Benchmark feature.ipynb
