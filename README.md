@@ -3,6 +3,8 @@
 This repository is created for the paper:
 Deep Learning-based radiomic features predicts decline of Forced Vital Capacity in adults with Idiopathic Pulmonary Fibrosis 
 Purpose
+![image](https://user-images.githubusercontent.com/49659087/144462701-b21abfbc-3149-4f9d-9c07-b76da070a388.png)
+
 ## Step 1. Segmentation of images: 
 Segmentation.ipynb
 
