@@ -4,7 +4,8 @@ This repository is created for the paper:
 Deep Learning-based radiomic features predicts decline of Forced Vital Capacity in adults with Idiopathic Pulmonary Fibrosis 
 Purpose
 Idiopathic pulmonary fibrosis (IPF) is a progressive, life-threatening, interstitial lung disease of unknown etiology [1]. IPF is characterized by progressive interstitial fibrosis caused by the thickening and scarring of the lung [1]. The average life expectancy of an IPF patient after diagnosis is 3-4 years. Unfortunately, the speed of disease progression has high variance and doctors are currently not able to easily tell if an IPF patient’s lungs will achieve long-term stability or rapidly deteriorate [1]. Currently forced vital capacity (FVC) is the best indicator of IPF disease progression [2, 3, 4]. FVC is a lung function test which measures the amount of air that can be forcibly exhaled from your lungs after taking the deepest breath possible. We are mainly interested in visual markers of IPF and will study the efficacy of various visual features. 
-![image](https://user-images.githubusercontent.com/49659087/144462701-b21abfbc-3149-4f9d-9c07-b76da070a388.png)
+
+![image](https://user-images.githubusercontent.com/49659087/144462701-b21abfbc-3149-4f9d-9c07-b76da070a388.png | width=100)
 Figure 1 fibrosis(left) vs healthy(right) lung. Red circled regions are so called honeycombing area. 
 
 ## Step 1. Segmentation of images: 
